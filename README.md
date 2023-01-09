@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malakmz
 - 👀 I’m interested in coding and music 
-- 🌱 I’m currently learning js and php
+- 🌱 I’m currently still learning 
 - 📫 How to reach me malakmzghi@gmail.com
 
 <!---
